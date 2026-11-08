@@ -1,10 +1,9 @@
-TREM FINO ARTESANATO — SITE INICIAL
+TREM FINO ARTESANATO — CATÁLOGO COM 8 PRODUTOS
 
-1. Abra index.html no navegador para visualizar o site.
-2. Para ativar os botões de pedido, edite a variável WHATSAPP no final do index.html, incluindo 55 + DDD + número, somente dígitos.
-3. Para cadastrar produtos reais, edite a lista 'produtos' no mesmo arquivo.
-4. Para fotos, crie uma pasta 'imagens' e preencha o campo foto com, por exemplo, 'imagens/suporte-01.jpg'.
-5. Publicação gratuita: crie um repositório público no GitHub, envie o arquivo index.html e as imagens e ative Settings > Pages > Deploy from a branch > main > / (root).
-6. O endereço gratuito será https://USUARIO.github.io/NOME-DO-REPOSITORIO/ ou https://USUARIO.github.io/ se o repositório se chamar USUARIO.github.io.
+Para atualizar o GitHub Pages: extraia este ZIP; no repositório cahunet-prog/trem-fino-artesanato envie index.html, logo-trem-fino.png e a pasta imagens (com todos os arquivos dentro). Substitua o index.html existente. Confirme as alterações (Commit changes).
 
-Observação: produtos e textos são exemplos iniciais, não anúncios de peças verificadas. Nenhum WhatsApp foi configurado ainda.
+Não envie o ZIP fechado. A pasta imagens deve ficar na raiz ao lado de index.html.
+
+Fotos originais preservadas; duas fotos foram apenas giradas para a orientação de exposição. Nos produtos com duas fotografias, clique na imagem para alternar.
+
+Para cadastrar novos produtos futuramente, atualize o array produtos no index.html e acrescente as imagens na pasta imagens.
